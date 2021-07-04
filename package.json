@@ -1,0 +1,27 @@
+{
+  "name": "anarchybot",
+  "version": "1.0.0",
+  "description": "a minecraft bot using mineflayer that is made to survive on anarchy servers",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1cd/Minecraft-Anarchy-Bot.git"
+  },
+  "keywords": [
+    "mineflayer"
+  ],
+  "author": "a1cd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a1cd/Minecraft-Anarchy-Bot/issues"
+  },
+  "homepage": "https://github.com/a1cd/Minecraft-Anarchy-Bot#readme",
+  "dependencies": {
+    "mineflayer": "^3.7.0",
+    "mineflayer-pathfinder": "^1.6.3",
+    "mineflayer-statemachine": "^1.6.4"
+  }
+}
