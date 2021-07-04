@@ -2,7 +2,7 @@
 
 # Other repos to steal code from
 ***check liscense first on all repos before using code***
- - https://github.com/link-discord/mineflayer-autocrystal
+ - https://github.com/link-discord/mineflayer-autocrystal [GNU GPLv3]
  - https://github.com/Darthfett/helperbot
  - https://github.com/PrismarineJS/MineflayerArmorManager
  - https://github.com/rom1504/rbot
